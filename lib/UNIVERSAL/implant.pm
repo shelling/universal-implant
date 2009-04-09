@@ -5,8 +5,6 @@ use 5.008008;
 use strict;
 use warnings;
 
-our $VERSION = '0.01_01';
-
 BEGIN { 
   require UNIVERSAL;
   require Class::Implant;
