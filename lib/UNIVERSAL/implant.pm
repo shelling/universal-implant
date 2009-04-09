@@ -1,4 +1,5 @@
 package UNIVERSAL::implant;
+# ABSTRACT: UNIVERSAL Class::Implant
 
 use 5.008008;
 use strict;
@@ -30,7 +31,5 @@ sub implant {
 =head1 DESCRIPTION
 
 
-
-=head1 SEE ALSO
 
 =cut
